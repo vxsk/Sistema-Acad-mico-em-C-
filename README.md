@@ -4,7 +4,7 @@ Este repositório abriga o código-fonte de um Sistema Acadêmico desenvolvido c
 O sistema permite o cadastro de cursos, disciplinas, períodos e usuários, além de fornecer funcionalidades de pesquisa para todos esses registros. 
 Ele também inclui um sistema de segurança com login e senha para controlar o acesso às informações.
 
-#Recursos:
+# Recursos:
 
 Cadastro de Cursos e Disciplinas: O sistema permite o cadastro detalhado de cursos e disciplinas, incluindo informações como nome, código, carga horária, etc.
 Gerenciamento de Períodos: Os períodos acadêmicos podem ser cadastrados e gerenciados para organizar o currículo dos cursos.
