@@ -22,6 +22,8 @@ Abra o projeto em seu ambiente de desenvolvimento C# preferido.
 
 Compile e execute a aplicação.
 
+Utilize como primeiro login : adm senha: 123
+
 Utilize as funcionalidades de cadastro, pesquisa e autenticação conforme necessário.
 
 [Tela Inicial](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/8243d6e5-2708-40cc-b665-41c088a9c09d)
