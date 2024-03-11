@@ -24,6 +24,17 @@ Compile e execute a aplicação.
 
 Utilize as funcionalidades de cadastro, pesquisa e autenticação conforme necessário.
 
+[Tela Inicial](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/8243d6e5-2708-40cc-b665-41c088a9c09d)
+
+[Aba Cadastros](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/53e40264-8574-4eda-90e6-8a05eac91bde)
+
+[Pesquisa de Períodos](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/0ac0948a-59bf-4f8f-a790-02f27bb02a2b)
+
+[Cadastro de Usuários](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/497be3fe-5540-42c6-9a84-0854cb909166)
+
+[Tela Sobre](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/3d787f7d-29ec-4a11-87b1-aefc8bb96fe8)
+
+
 # Agradecimentos:
 
 Agradecemos por considerar este projeto. Esperamos que este Sistema Acadêmico seja útil para fins educacionais e de aprendizado. 
