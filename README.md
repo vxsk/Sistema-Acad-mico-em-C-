@@ -36,6 +36,7 @@ Utilize as funcionalidades de cadastro, pesquisa e autenticação conforme neces
 
 [Tela Sobre](https://github.com/vxsk/Sistema-Acad-mico-em-C-/assets/71227147/3d787f7d-29ec-4a11-87b1-aefc8bb96fe8)
 
+Funcionamento do projeto: https://www.youtube.com/watch?v=U9vnLrKg4jI
 
 # Agradecimentos:
 
