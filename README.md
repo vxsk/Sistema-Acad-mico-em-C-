@@ -6,6 +6,8 @@ Ele também inclui um sistema de segurança com login e senha para controlar o a
 
 # Recursos:
 
+CRUD completo.
+
 Cadastro de Cursos e Disciplinas: O sistema permite o cadastro detalhado de cursos e disciplinas, incluindo informações como nome, código, carga horária, etc.
 
 Gerenciamento de Períodos: Os períodos acadêmicos podem ser cadastrados e gerenciados para organizar o currículo dos cursos.
